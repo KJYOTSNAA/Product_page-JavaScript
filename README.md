@@ -4,4 +4,4 @@ Fully JavaScript Dom ,event ... <br>
 <img src="1.png">
 
 # mobile
-<img src="1.png">
+<img src="2.png">
