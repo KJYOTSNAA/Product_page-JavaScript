@@ -1,6 +1,6 @@
 # Product_page-JavaScript
 Fully JavaScript Dom ,event ... <br>
-#web
+# web
 <img src="1.png">
-#mobile
+# mobile
 <img src="1.png">
